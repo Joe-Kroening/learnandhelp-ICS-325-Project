@@ -34,6 +34,7 @@
             }
         }
     }
+    #test
     mysqli_close($connection);
     header("Location: admin_blogs.php");
 ?>
