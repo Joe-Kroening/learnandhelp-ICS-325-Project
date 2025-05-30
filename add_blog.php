@@ -36,6 +36,7 @@
     }
     #test
     #test2
+    #test3
     mysqli_close($connection);
     header("Location: admin_blogs.php");
 ?>
